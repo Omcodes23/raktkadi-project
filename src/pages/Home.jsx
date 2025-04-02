@@ -6,12 +6,12 @@ import { ROUTES } from "../utils/constants";
 
 // Import components
 // import Navbar from "../components/public/home/Navbar";
-import HeroSections from "../components/public/home/HeroSection";
-import StatsSections from "../components/public/home/StatsSection";
-import FeaturesSections from "../components/public/home/FeaturesSection";
-import HowItWorksSections from "../components/public/home/HowItWorksSection";
+import HeroSections from "../components/public/Home/HeroSection";
+import StatsSections from "../components/public/Home/StatsSection";
+import FeaturesSections from "../components/public/Home/FeaturesSection";
+import HowItWorksSections from "../components/public/Home/HowItWorksSection";
 import TestimonialsSections from "../components/public/home/TestimonialsSection";
-import CTASections from "../components/public/home/CTASection";
+import CTASections from "../components/public/Home/CTASection";
 
 const Home = () => {
   const navigate = useNavigate();
