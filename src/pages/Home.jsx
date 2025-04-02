@@ -10,7 +10,7 @@ import HeroSections from "../components/public/Home/HeroSection";
 import StatsSections from "../components/public/Home/StatsSection";
 import FeaturesSections from "../components/public/Home/FeaturesSection";
 import HowItWorksSections from "../components/public/Home/HowItWorksSection";
-import TestimonialsSections from "../components/public/home/TestimonialsSection";
+import TestimonialsSections from "../components/public/Home/TestimonialsSection";
 import CTASections from "../components/public/Home/CTASection";
 
 const Home = () => {
